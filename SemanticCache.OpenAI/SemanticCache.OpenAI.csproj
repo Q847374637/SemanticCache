@@ -13,8 +13,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>logo.png</PackageIcon>
-    <RepositoryUrl>https://github.com/Q847374637/SemanticCache.Core</RepositoryUrl>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/Q847374637/SemanticCache.Core</RepositoryUrl> 
   </PropertyGroup>
 
   <ItemGroup>
